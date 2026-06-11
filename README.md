@@ -33,7 +33,7 @@ Aplicación desarrollada con JavaScript Vanilla que permite calcular el precio d
 
 ## 🎯 Objetivo del proyecto
 
-Este proyecto fue desarrollado como práctica para reforzar conceptos fundamentales de JavaScript, especialmente la programación orientada a objetos mediante constructores y prototypes, además de mejorar el manejo de eventos y la interacción con el usuario.
+Este proyecto fue desarrollado como práctica para reforzar conceptos fundamentales de JavaScript, especialmente la programación orientada a objetos mediante constructores y prototypes, además de mejorar el manejo de eventos y la interacción con el usuario. No me di cuenta y puse los signos de dolar a toda la cotizacion.
 
 ## 📷 Vista previa
 
